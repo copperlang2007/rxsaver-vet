@@ -2,6 +2,14 @@
 
 **Prescription Drug Cost Navigator for Seniors & Veterans**
 
+## Working Starter
+
+```bash
+node --test tests/*.test.mjs
+```
+
+This repository now includes a dependency-free VA/Medicare drug-cost coordination core covering cheapest channel selection, payment-plan projection, and veteran-specific savings alerts.
+
 Full-stack production-grade app ready for market. Leverages 2026 Medicare Part D changes: $2,100 OOP cap, negotiated prices on 10+ drugs, payment plans.
 
 ## Features
